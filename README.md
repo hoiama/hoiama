@@ -21,3 +21,5 @@ After 6 years of as full stack, I became an experienced entrepreneur with a prov
 ✨ My private GitHub store my startups project, however I can show you many code in a call
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoiama/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579996473881&text=Ol%C3%A1,%20Hoiama)
+
