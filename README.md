@@ -15,8 +15,8 @@ After 6 years of as full stack, I became an experienced entrepreneur with a prov
 - Studying Kubernetes | Docker | Git Action | English intermediary B1
 
 🌱 ### 𝗠𝘆 𝘁𝘄𝗼 𝘀𝘁𝗮𝗿𝘁𝘂𝗽 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
-- bindways.com/bwp | Platform to connect entrepreneur and form partner teams
-- bindways.com/bwg | Contract service and share cost between people' group
+- https://bindways.com/bwp | Platform to connect entrepreneur and form partner teams
+- https://bindways.com/bwg | Contract service and share cost between people' group
 
 ✨ My private GitHub store my startups project, however I can show you many code in a call
-- https://github.com/hoiama
+- [https://github.com/hoiama](https://www.linkedin.com/in/hoiama/)https://www.linkedin.com/in/hoiama/
