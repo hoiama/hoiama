@@ -17,7 +17,7 @@ After 6 years of as full stack, I became an experienced entrepreneur with a prov
 🌱 𝗠𝘆 𝘁𝘄𝗼 𝘀𝘁𝗮𝗿𝘁𝘂𝗽 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
 - https://network.bindways.com | Platform to connect profesionales to solve challenges.
 - https://partner.bindways.com | Platform to connect entrepreneur and form partner teams.
-- https://group.bindways.com/bwg | Contract service and share cost between people' group.
+- https://group.bindways.com | Contract service and share cost between people' group.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoiama/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579996473881&text=Ol%C3%A1,%20Hoiama)
